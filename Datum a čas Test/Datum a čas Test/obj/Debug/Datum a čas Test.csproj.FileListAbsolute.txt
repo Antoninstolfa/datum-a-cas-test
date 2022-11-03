@@ -1,0 +1,10 @@
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\bin\Debug\Datum a čas Test.exe.config
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\bin\Debug\Datum a čas Test.exe
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\bin\Debug\Datum a čas Test.pdb
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\obj\Debug\Datum a čas Test.csprojAssemblyReference.cache
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\obj\Debug\Datum_a_čas_Test.Form1.resources
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\obj\Debug\Datum_a_čas_Test.Properties.Resources.resources
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\obj\Debug\Datum a čas Test.csproj.GenerateResource.cache
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\obj\Debug\Datum a čas Test.csproj.CoreCompileInputs.cache
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\obj\Debug\Datum a čas Test.exe
+G:\PRG\C#\Datum a čas Test\Datum a čas Test\obj\Debug\Datum a čas Test.pdb
